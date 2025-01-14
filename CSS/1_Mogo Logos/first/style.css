@@ -1,0 +1,16 @@
+.cont {
+    max-width: 1920px;
+    /* height: 250px; */
+    background-color: #f8f8f8;
+    margin: auto;
+    text-align: center;
+    padding: 70px 0px;
+}
+
+img {
+    margin-left: 110px;
+}
+
+.first {
+    margin-left: 0px;
+}

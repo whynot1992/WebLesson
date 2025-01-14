@@ -1,0 +1,10 @@
+.content {
+    background-color: #f8f8f8;
+    max-width: 1920px;
+    margin: auto;
+    padding: 70px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
